@@ -1,6 +1,8 @@
 # Janus Declarative Specification Measurements
 Static Repository for results and tests sharing of Janus declarative specifications measurement component. This archive contains the additional material to the paper "Measurement of Rule-based Linear Temporal Logic Specifications on Finite Traces".
-Go to the static page to just download the files [https://github.com/Oneiroe/DeclarativeSpecificationMeasurements-static](https://github.com/Oneiroe/DeclarativeSpecificationMeasurements-static/tree/gh-pages)
+ 
+ * web page [https://oneiroe.github.io/DeclarativeSpecificationMeasurements-static/](https://oneiroe.github.io/DeclarativeSpecificationMeasurements-static/)
+ * static GitHub page to just download the files [https://github.com/Oneiroe/DeclarativeSpecificationMeasurements-static](https://github.com/Oneiroe/DeclarativeSpecificationMeasurements-static)
 
 Find the active development in the main [Janus repository](https://github.com/Oneiroe/Janus).
 
